@@ -1,0 +1,6 @@
+This is the THIRD file for Assignment1.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vulputate congue rutrum. 
+Fusce suscipit tortor ex, et sodales leo aliquam ut. Suspendisse fermentum est vel augue egestas, 
+et fringilla mauris varius. Pellentesque in pharetra dui. Sed commodo nulla nec rhoncus elementum.
+ Praesent vitae aliquet dolor, ac lob
